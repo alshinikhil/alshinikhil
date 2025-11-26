@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Alshi 👋
+# Hi there, I'm Nikhil Alshi
 
 Thanks for stopping by — here's a little about me.
 
@@ -6,7 +6,7 @@ I'm a graduate student in Information Systems at Northeastern University with pr
 
 ---
 
-## 👨‍💻 What I Bring
+## What I Bring
 
 - Experienced in building cloud-based ETL pipelines using Azure Data Factory and Python  
 - Designed high-performance data models in Snowflake and Azure Synapse  
@@ -16,7 +16,7 @@ I'm a graduate student in Information Systems at Northeastern University with pr
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ I'm a graduate student in Information Systems at Northeastern University with pr
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **IMDb Movie Analytics & Data Engineering**  
 Large-scale pipeline for processing IMDb datasets using Azure Data Factory and Snowflake with dimensional modeling and Tableau dashboards.
@@ -64,14 +64,14 @@ Relational database design for fare management using Oracle PL/SQL and ER modeli
 
 ---
 
-## 🎓 Education
+## Education
 
 - Northeastern University — MS in Information Systems  
 - University of Mumbai — BE in Electronics & Telecommunication  
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - Data Engineering  
 - Business Intelligence  
@@ -81,7 +81,7 @@ Relational database design for fare management using Oracle PL/SQL and ER modeli
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - 📧 Email: alshi.ni@northeastern.edu  
 - 💼 LinkedIn: https://linkedin.com/in/nikhil-alshi  
